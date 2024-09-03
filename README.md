@@ -41,9 +41,7 @@ Este repositório é de um projeto bem simples, feito para aprendizado e para te
 
 Este projeto é só para fins de estudo. Provavelmente tem muitas melhorias que poderiam ser feitas, mas o objetivo foi entender o básico.
 
-## Agradecimentos
+## Material de ensino
 
-Agradeço aos tutoriais e documentação do Spring Boot que me ajudaram a desenvolver este projeto.
+ Curso udemy do 0 a aws, e videos do youtube explicando e criando uma api.
 ```
-
-Esse README é bem direto ao ponto, destacando que o foco foi no aprendizado. Ajuste o nome do repositório e outras informações conforme necessário.
