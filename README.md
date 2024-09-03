@@ -1,10 +1,5 @@
 # rest-with-spring-boot-and-java
 
-primeiro contato com a framework spring, implementando e criando experiencia tanto quanto em java quanto no sql workbench.
-
-
-Aqui está um README.md mais simples e informal para o seu repositório:
-
 ```markdown
 # Projeto CRUD com Spring Boot e MySQL
 
