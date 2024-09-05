@@ -1,6 +1,3 @@
-# rest-with-spring-boot-and-java
-
-```markdown
 # Projeto CRUD com Spring Boot e MySQL
 
 Este repositório é de um projeto bem simples, feito para aprendizado e para ter meu primeiro contato com o framework Spring Boot e com MySQL.
@@ -39,4 +36,3 @@ Este projeto é só para fins de estudo. Provavelmente tem muitas melhorias que 
 ## Material de ensino
 
  Curso udemy do 0 a aws, e videos do youtube explicando e criando uma api.
-```
