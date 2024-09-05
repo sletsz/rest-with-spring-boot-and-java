@@ -10,7 +10,7 @@ Este repositório é de um projeto bem simples, feito para aprendizado e para te
 
 1. **Clone o repositório**:
     ```bash
-    git clone https://github.com/seu-usuario/seu-repo.git
+    git clone https://github.com/sletsz/rest-with-spring-boot-and-java
     cd seu-repo
     ```
 
